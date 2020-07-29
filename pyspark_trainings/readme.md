@@ -8,7 +8,7 @@ part 6 :- https://colab.research.google.com/drive/14T-upswXWj8uR7EwxT_LWy-XEhOJK
 
 ## Some updates in the colab notebooks and codes ##
 
-###### First block to load pyspark once (run this only once) .. In case it gives an error in future, just check  https://www.apache.org/dyn/closer.lua/spark/spark-2.4.5/spark-2.4.5-bin-hadoop2.7.tgz andput ######## the mirror for windows
+###### First block to load pyspark once (run this only once) .. In case it gives an error in future, just check  https://www.apache.org/dyn/closer.lua/spark/spark-2.4.5/spark-2.4.5-bin-hadoop2.7.tgz and put the mirror for windows <br/>
 
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null <br/>
 !wget -q http://apachemirror.wuchna.com/spark/spark-2.4.5/spark-2.4.5-bin-hadoop2.7.tgz <br/>
